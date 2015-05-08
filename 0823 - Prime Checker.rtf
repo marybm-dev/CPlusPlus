@@ -1,0 +1,53 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 #include <iostream>\
+using namespace std;\
+\
+int GetInput(string prompt);\
+void LoopThroughRange(int low, int high);\
+bool CheckPrime(int target);\
+\
+int main()\
+\{\
+    int start = GetInput("Starting number? ");\
+    int end = GetInput("Ending number? ");\
+    LoopThroughRange(start, end);\
+\}\
+\
+int GetInput(string prompt)\
+\{\
+    int input;\
+    cout << prompt;\
+    cin >> input;\
+    return input;\
+\}\
+\
+void LoopThroughRange(int low, int high)\
+\{\
+    for (int num = low; num <= high; num++)\
+    \{\
+        if (CheckPrime(num) == true)\
+            cout << num << " is prime\\n";\
+    \}\
+\}\
+\
+bool CheckPrime(int target)\
+\{\
+    for (int possibility = 2; possibility <= (target/2); possibility++)\
+    \{\
+        //if (target is divisible by possibility)\
+        if (target % possibility == 0)\
+        \{\
+            return false;\
+        \}\
+    \}\
+    return true;\
+\}\
+\
+\
+\
+}
