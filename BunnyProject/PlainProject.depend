@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1333427963 source:c:\documents and settings\colin\desktop\plainproject\main.cpp
+	<iostream>
+	<iomanip>
+	"lpclib.h"
+
+1333426060 c:\documents and settings\colin\desktop\plainproject\lpclib.h
+	<string>
+	<iostream>
+	<vector>
+	"lpclib_private.h"
+
+1331781708 c:\documents and settings\colin\desktop\plainproject\lpclib_private.h
+
+1333645802 source:c:\users\cschatz\desktop\plainproject-v1.5-codeblocks\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+	"lpclib.h"
+	"Entity.h"
+	"FloatingBunny.h"
+
+1333426060 c:\users\cschatz\desktop\plainproject-v1.5-codeblocks\lpclib.h
+	<string>
+	<iostream>
+	<vector>
+	"lpclib_private.h"
+
+1331778108 c:\users\cschatz\desktop\plainproject-v1.5-codeblocks\lpclib_private.h
+
+1333645557 source:c:\users\cschatz\desktop\plainproject-v1.5-codeblocks\floatingbunny.cpp
+	"FloatingBunny.h"
+	"lpclib.h"
+
+1333645189 c:\users\cschatz\desktop\plainproject-v1.5-codeblocks\floatingbunny.h
+	<iostream>
+	"Entity.h"
+
+1333644204 c:\users\cschatz\desktop\plainproject-v1.5-codeblocks\entity.h
+
+1333644204 source:c:\users\cschatz\desktop\plainproject-v1.5-codeblocks\entity.cpp
+	"Entity.h"
+
+1333646226 source:c:\users\cschatz\desktop\plainproject-v1.5-codeblocks\driftingbunny.cpp
+	"DriftingBunny.h"
+
+1333646249 c:\users\cschatz\desktop\plainproject-v1.5-codeblocks\driftingbunny.h
+	<iostream>
+	"FloatingBunny.h"
+

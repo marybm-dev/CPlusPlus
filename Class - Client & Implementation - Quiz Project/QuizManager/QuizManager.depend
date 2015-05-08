@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1329807480 source:c:\documents and settings\colin\desktop\quizmanager\main.cpp
+	<iostream>
+	"Quiz.h"
+	"lpclib.h"
+
+1329804240 c:\documents and settings\colin\desktop\quizmanager\quiz.h
+	<iostream>
+	<vector>
+
+1329805260 c:\documents and settings\colin\desktop\quizmanager\lpclib.h
+	<string>
+	<iostream>
+	<sstream>
+
+1329854312 source:c:\users\student\desktop\quizmanager\main.cpp
+	<iostream>
+	"Quiz.h"
+	"lpclib.h"
+
+1329804240 c:\users\student\desktop\quizmanager\quiz.h
+	<iostream>
+	<vector>
+
+1329805260 c:\users\student\desktop\quizmanager\lpclib.h
+	<string>
+	<iostream>
+	<sstream>
+

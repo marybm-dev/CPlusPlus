@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1333427963 source:c:\documents and settings\colin\desktop\plainproject\main.cpp
+	<iostream>
+	<iomanip>
+	"lpclib.h"
+
+1333426060 c:\documents and settings\colin\desktop\plainproject\lpclib.h
+	<string>
+	<iostream>
+	<vector>
+	"lpclib_private.h"
+
+1331781708 c:\documents and settings\colin\desktop\plainproject\lpclib_private.h
+
+1333650936 source:e:\cs2\warm-ups class exercises\bunny - plainproject-v1.5-codeblocks\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+	"lpclib.h"
+	"entity.h"
+	"floatingbunny.h"
+	<windows.h>
+	"pingpongbunny.h"
+	"circle.h"
+
+1333426060 e:\cs2\warm-ups class exercises\bunny - plainproject-v1.5-codeblocks\lpclib.h
+	<string>
+	<iostream>
+	<vector>
+	"lpclib_private.h"
+
+1331778108 e:\cs2\warm-ups class exercises\bunny - plainproject-v1.5-codeblocks\lpclib_private.h
+
+1333644028 e:\cs2\warm-ups class exercises\bunny - plainproject-v1.5-codeblocks\entity.h
+
+1333644054 source:e:\cs2\warm-ups class exercises\bunny - plainproject-v1.5-codeblocks\entity.cpp
+	"entity.h"
+
+1333645076 e:\cs2\warm-ups class exercises\bunny - plainproject-v1.5-codeblocks\floatingbunny.h
+	"entity.h"
+	<iostream>
+
+1333648062 source:e:\cs2\warm-ups class exercises\bunny - plainproject-v1.5-codeblocks\floatingbunny.cpp
+	"floatingbunny.h"
+	"entity.h"
+	"lpclib.h"
+	<iostream>
+	<windows.h>
+
+1333649342 source:e:\cs2\warm-ups class exercises\bunny - plainproject-v1.5-codeblocks\pingpongbunny.cpp
+	"pingpongbunny.h"
+	"floatingbunny.h"
+	"lpclib.h"
+	<iostream>
+	<windows.h>
+
+1333647442 e:\cs2\warm-ups class exercises\bunny - plainproject-v1.5-codeblocks\pingpongbunny.h
+	"floatingbunny.h"
+	<iostream>
+
+1333650924 source:e:\cs2\warm-ups class exercises\bunny - plainproject-v1.5-codeblocks\circle.cpp
+	"circle.h"
+	"entity.h"
+	<iostream>
+	"lpclib.h"
+
+1333650750 e:\cs2\warm-ups class exercises\bunny - plainproject-v1.5-codeblocks\circle.h
+	"entity.h"
+	<iostream>
+

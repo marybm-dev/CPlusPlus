@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1328038361 source:c:\users\student\desktop\boring\main.cpp
+	<iostream>
+	"Starfish.h"
+
+1328037958 c:\users\student\desktop\boring\starfish.h
+
+1328038350 source:c:\users\student\desktop\boring\starfish.cpp
+	"Starfish.h"
+	<iostream>
+

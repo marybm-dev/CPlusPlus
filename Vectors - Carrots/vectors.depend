@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1327432478 source:e:\cs2\vectors\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
