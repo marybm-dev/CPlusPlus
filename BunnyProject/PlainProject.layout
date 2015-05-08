@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="DriftingBunny.h" open="1" top="0" tabpos="7">
+		<Cursor position="97" topLine="0" />
+	</File>
+	<File name="Entity.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="99" topLine="0" />
+	</File>
+	<File name="Entity.h" open="1" top="0" tabpos="3">
+		<Cursor position="55" topLine="3" />
+	</File>
+	<File name="FloatingBunny.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="364" topLine="0" />
+	</File>
+	<File name="FloatingBunny.h" open="1" top="0" tabpos="5">
+		<Cursor position="90" topLine="0" />
+	</File>
+	<File name="lpclib.h" open="1" top="0" tabpos="2">
+		<Cursor position="4243" topLine="102" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="338" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1330028130 source:c:\users\student\desktop\in-class activity\player.cpp
+	"player.h"
+
+1330026713 c:\users\student\desktop\in-class activity\player.h
+	<iostream>
+
+1330027516 source:c:\users\student\desktop\in-class activity\main.cpp
+	<iostream>
+	"player.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1328039845 source:c:\users\student\desktop\frosting\main.cpp
+	<iostream>
+	"frosting.h"
+
+1328039596 c:\users\student\desktop\frosting\frosting.h
+	<iostream>
+
+1328039979 source:c:\users\student\desktop\frosting\frosting.cpp
+	"frosting.h"
+	<iostream>
+

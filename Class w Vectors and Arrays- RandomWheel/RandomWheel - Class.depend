@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1328211601 source:c:\users\student\desktop\randomwheel - class\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+
+1328211601 source:c:\users\student\desktop\randomwheel - class\randomwheel.cpp
+	"RandomWheel.h"
+
+1328211690 c:\users\student\desktop\randomwheel - class\randomwheel.h
+	<vector>
+	<iostream>
+	<ctime>
+	<cstdlib>
+

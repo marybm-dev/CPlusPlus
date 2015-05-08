@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="circle.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="321" topLine="0" />
+	</File>
+	<File name="entity.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="74" topLine="0" />
+	</File>
+	<File name="floatingbunny.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="405" topLine="0" />
+	</File>
+	<File name="floatingbunny.h" open="1" top="0" tabpos="4">
+		<Cursor position="71" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="943" topLine="15" />
+	</File>
+	<File name="pingpongbunny.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="301" topLine="0" />
+	</File>
+	<File name="pingpongbunny.h" open="1" top="1" tabpos="6">
+		<Cursor position="273" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

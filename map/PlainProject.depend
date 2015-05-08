@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1333427963 source:c:\documents and settings\colin\desktop\plainproject\main.cpp
+	<iostream>
+	<iomanip>
+	"lpclib.h"
+
+1333426060 c:\documents and settings\colin\desktop\plainproject\lpclib.h
+	<string>
+	<iostream>
+	<vector>
+	"lpclib_private.h"
+
+1331781708 c:\documents and settings\colin\desktop\plainproject\lpclib_private.h
+
